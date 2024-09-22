@@ -1,1 +1,2 @@
 Dit is een voorbeeld voor te leren commiten in GIT
+Ik zet hier nu tekst bij zodat ik deze kan PULlen naar Ubuntu GUI
